@@ -1,0 +1,84 @@
+.container1{
+    width: 400px;
+    display: flex;
+    color: white;
+    margin-left: 75%;
+}
+header{
+    background-color: #222946;
+    padding: 30px;
+}
+.bell{
+    margin:0 50px ;
+}
+.user{
+    margin: 0 15px;
+}
+.small-container1{
+    width: 25%;
+    display: flex;
+    flex-direction: column;
+    margin: 50px 0px;
+    font-size: 1.8rem;
+    line-height: 2;
+    font-weight: 800;
+    background-color: #a3caea;
+    padding: 30px;
+    border-radius: 20px;
+}
+.buttons{
+    margin:0 20px;
+
+}
+.log-out{
+    margin-top: 400px;
+    width: 90%;
+    background-color: white;
+    border-radius: 8px;
+}
+.orange{
+    border: 3px solid #ff7b29;
+    width: 90%;
+    color: #ff7b29;
+    border-radius: 8px;
+    box-sizing: border-box;
+}
+.small-container2{
+    width: 50%;
+    font-size: 1.4rem;
+    margin: 50px 0;
+    padding:30px ;
+    background-color: #F2F8FD;
+    border-radius: 20px;
+}
+.Big-Container{
+    display: flex;
+    justify-content: space-evenly;
+}
+.article{
+    width: 100%;
+}
+.button-read{
+    background-color: #37b667;
+    color: white;
+    width: 20%;
+    text-align: center;
+    padding: 15px;
+    border-radius: 8px;
+}
+footer{
+    background-color: #222946;
+    font-size: 2rem;
+    color: white;
+    padding: 30px;
+    display: flex;
+    justify-content: space-between;
+}
+
+small{
+   margin: 0 30px;
+}
+.links{
+    color: grey;
+}
+
